@@ -1,4 +1,2 @@
 #file b
 
-
-print('day')
