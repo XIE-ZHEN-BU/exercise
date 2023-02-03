@@ -1,3 +1,3 @@
 #file b
 
-print('day')
+print('day1')
