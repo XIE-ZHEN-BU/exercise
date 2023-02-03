@@ -1,1 +1,4 @@
 #file b
+
+
+print('day')
